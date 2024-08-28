@@ -32,7 +32,7 @@ This project involves the implementation and training of Bayesian Neural Network
 ## How to Run
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/madalin312/bayesian_neural_network
     ```
 2. **Install Dependencies**:
     - Ensure you have Julia installed.
